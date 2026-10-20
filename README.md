@@ -1,8 +1,8 @@
 # Inventario Tienda de Don Ernesto (Taller 8, Programación 1)
 
-Juan David Aguilera
-Marianna Fernandez 
-JeanCarlo Caicedo
+1. Juan David Aguilera
+2. Marianna Fernandez 
+3. JeanCarlo Caicedo
 
 ## Requisitos
 - JDK 21
