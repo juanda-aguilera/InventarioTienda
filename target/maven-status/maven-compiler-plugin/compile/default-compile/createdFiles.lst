@@ -1,0 +1,9 @@
+com\gitb\juandaaguilera\inventariotienda\vista\VentanaInventario$2.class
+com\gitb\juandaaguilera\inventariotienda\dao\ProductoDAO.class
+com\gitb\juandaaguilera\inventariotienda\App.class
+com\gitb\juandaaguilera\inventariotienda\vista\VentanaInventario$1.class
+com\gitb\juandaaguilera\inventariotienda\vista\VentanaInventario.class
+com\gitb\juandaaguilera\inventariotienda\model\Categoria.class
+com\gitb\juandaaguilera\inventariotienda\model\Producto.class
+com\gitb\juandaaguilera\inventariotienda\conexion\Conexion.class
+com\gitb\juandaaguilera\inventariotienda\dao\CategoriaDAO.class
